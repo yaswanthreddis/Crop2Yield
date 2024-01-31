@@ -1,12 +1,12 @@
 | Date       | Seelam Yaswanth Reddy        | Pinjala Sasidhar          | Shaik Amoon          | Perumalla Akhil         |
 | --------   | ---------------------------- | --------------------------| -------------------- | ------------------------|
 | 22-01-2024 |                              |                           |                      | Research on Project     |
-| 23-01-2024 |                              |                           |                      |                         |
-| 24-01-2024 |                              |                           |                      |                         |
-| 25-01-2024 |                              |                           |                      |                         |
-| 29-01-2024 |                              |                           |                      |                         |
-| 30-01-2024 |                              |                           |                      |                         |
-| 31-01-2024 |                              |                           |                      |                         |
+| 23-01-2024 |                              |                           |                      | Research on Project     |
+| 24-01-2024 |                              |                           |                      | Research on Project     |
+| 25-01-2024 |                              |                           |                      | Research on Project     |
+| 29-01-2024 |                              |                           |                      | Research on Project     |
+| 30-01-2024 |                              |                           |                      | Research on Project     |
+| 31-01-2024 |                              |                           |                      | Research on Project     |
 | 01-02-2024 |                              |                           |                      |                         |
 | 02-02-2024 |                              |                           |                      |                         |
 | 04-02-2024 |                              |                           |                      |                         |
