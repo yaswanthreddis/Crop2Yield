@@ -102,7 +102,7 @@
 
 # 01/02/24
 ###### Name : Yaswath Reddy
-+ Git Environment Setup
++ Jira Setup and Logo Designed for project
 
 ###### Name : Pinjala Sasidhar
 + Intialised git repostiory for project
