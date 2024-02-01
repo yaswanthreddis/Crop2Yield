@@ -99,3 +99,16 @@
 ###### Name : Perumalla Akhil
 + Intialised git repostiory for project
 
+
+# 01/02/24
+###### Name : Yaswath Reddy
++ Git Environment Setup
+
+###### Name : Pinjala Sasidhar
++ Intialised git repostiory for project
+
+###### Name : Shaik Amoon
++ Intialized git repostiory for project
+
+###### Name : Perumalla Akhil
++ Intialised git repostiory
