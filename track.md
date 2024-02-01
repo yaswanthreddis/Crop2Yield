@@ -108,7 +108,7 @@
 + Intialised git repostiory for project
 
 ###### Name : Shaik Amoon
-+ Intialized git repostiory for project
++ Jira Setup and Logo Designed for project
 
 ###### Name : Perumalla Akhil
-+ Intialised git repostiory
++ Jira Setup and Logo Designed for project
