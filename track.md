@@ -105,7 +105,7 @@
 + Jira Setup and Logo Designed for project
 
 ###### Name : Pinjala Sasidhar
-+ Intialised git repostiory for project
++ Jira Setup and Logo Designed for project
 
 ###### Name : Shaik Amoon
 + Jira Setup and Logo Designed for project
