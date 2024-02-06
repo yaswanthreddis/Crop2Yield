@@ -138,4 +138,4 @@
 + UI design
 
 ###### Name : Perumalla Akhil
-+ UI design
++ UI designs for home page
