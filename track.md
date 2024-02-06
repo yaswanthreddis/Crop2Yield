@@ -112,3 +112,30 @@
 
 ###### Name : Perumalla Akhil
 + Jira Setup and Logo Designed for project
+
+# 05/02/24
+###### Name : Yaswath Reddy
++ Research on ML Alogorthm
+
+###### Name : Pinjala Sasidhar
++ Research on UI 
+
+###### Name : Shaik Amoon
++ Research on UI
+
+###### Name : Perumalla Akhil
++ Research on UI
+
+
+# 06/02/24
+###### Name : Yaswath Reddy
++ Research on ML Alogorthm
+
+###### Name : Pinjala Sasidhar
++ UI design
+
+###### Name : Shaik Amoon
++ UI design
+
+###### Name : Perumalla Akhil
++ UI design
