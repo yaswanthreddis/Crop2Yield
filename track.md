@@ -115,7 +115,7 @@
 
 # 05/02/24
 ###### Name : Yaswath Reddy
-+ Research on ML Alogorthm
++ Research on ML Algorithm
 
 ###### Name : Pinjala Sasidhar
 + Research on UI 
@@ -129,7 +129,7 @@
 
 # 06/02/24
 ###### Name : Yaswath Reddy
-+ Research on ML Alogorthm
++ Research on ML Algorithm
 
 ###### Name : Pinjala Sasidhar
 + UI design
@@ -138,4 +138,4 @@
 + UI design
 
 ###### Name : Perumalla Akhil
-+ UI designs for home page
++ UI design 
